@@ -18,4 +18,4 @@ app.get('/',  async (request, response) => {
     
 });
 
-app.listen(port, () => console.log(`App available on http://localhost:${port}`))
+app.listen(process.env.PORT || port, () => console.log(`App available on http://localhost:${port}`))
