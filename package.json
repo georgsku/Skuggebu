@@ -15,13 +15,13 @@
     "Hytte",
     "Skuggedal"
   ],
-  "author": "Skuggedal",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/georgsku/Skuggebu/issues"
-  },
-  "homepage": "https://github.com/georgsku/Skuggebu#readme",
-  "dependencies": {
-    "express": "^4.17.3"
+    "author": "Skuggedal",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/georgsku/Skuggebu/issues"
+    },
+    "homepage": "https://github.com/georgsku/Skuggebu#readme",
+    "dependencies": {
+      "express": "^4.17.3"
   }
 }
