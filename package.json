@@ -1,0 +1,26 @@
+{
+  "name": "skuggebu",
+  "version": "1.0.0",
+  "description": "Nettside for familien Skuggedal sin hytte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgsku/Skuggebu.git"
+  },
+  "keywords": [
+    "Hytte",
+    "Skuggedal"
+  ],
+  "author": "Skuggedal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgsku/Skuggebu/issues"
+  },
+  "homepage": "https://github.com/georgsku/Skuggebu#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
